@@ -1,3 +1,7 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##PLEASE TELL ME IF ANY PART OF MY EXPLANATION DOESN'T MAKE SENSE. I AM STILL KIND OF CONFUSED.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ##These functions create a matrix object and store the computation of its inverse.
 
 ##(1) This function creates a special "matrix" object that can cache its inverse. This function creates a vector/list containing a function to:
